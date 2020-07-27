@@ -67,14 +67,10 @@ Unzip and run the EXE to install.
 
 If you find this application useful please take a moment to rate it and share it.
 
-
 Best Regards
 
-
 Randy Chapman
-
-
-[Lynciverse.com](http://lynciverse.com)
+UCStatus.com
 
 
         
